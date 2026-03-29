@@ -1,0 +1,17 @@
+Name | Price | Available | Out Of Stock
+Panadol,60,true,false
+Amoxil,250,true,false
+Cough Syrup,180,true,false
+Dexa,790,true,false
+Flagal,70,true,false
+Paracetamol,100,false,true
+Ibuprofen,220,false,true
+Aspirin,150,true,false
+Azithro,500,false,true
+Vitamin C,200,true,false
+Metformin,850,true,false
+Cetirizine,90,true,false
+Omeprazole,400,true,false
+Denla XR,790,true,false
+VITRIUM,400,true,false
+asdcv,100,true,false

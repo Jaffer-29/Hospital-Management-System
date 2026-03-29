@@ -1,0 +1,2 @@
+Patient ID , Name , Disease , Room Number , Status
+152 | ABC | Cold | 102 - OPD | true

@@ -29,7 +29,7 @@ public class  ProjectInfo extends JFrame{
         thankYou.setBounds(0, 175, 800, 75);
         add(thankYou);
 
-        JLabel footer1 = new JLabel("Developed by: Muhammad Jaffer and Hammad Khan", SwingConstants.CENTER);
+        JLabel footer1 = new JLabel("Developed by: Muhammad Jaffer", SwingConstants.CENTER);
         footer1.setFont(new Font("Arial", Font.ITALIC, 14));
         footer1.setBounds(0, 400, 800, 30);
         footer1.setForeground(Color.DARK_GRAY);
